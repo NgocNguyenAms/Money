@@ -18,4 +18,5 @@ public class Expense {
         this.idGroup = idGroup;
         this.idMonth = idMonth;
     }
+    
 }
