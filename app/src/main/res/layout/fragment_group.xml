@@ -2,12 +2,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.lanmai.money.ChartFragment">
+    tools:context="com.example.lanmai.money.GroupFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="this is chart fragment" />
+        android:text="this is group fragment" />
 
 </FrameLayout>
